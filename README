@@ -1,0 +1,5 @@
+cd corporacion_rojo_infosis
+echo "# Corporación Rojo - INFOSIS (Laravel)" > README.md
+git add README.md
+git commit -m "docs: README inicial"
+git push
