@@ -1,0 +1,30 @@
+/vendor/
+/node_modules/
+
+# Laravel runtime y build
+/public/hot
+/public/storage
+/public/build
+/public/mix-manifest.json
+
+/storage/*
+!/storage/.gitignore
+
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+
+# Env & misc
+.env
+.env.*
+.phpunit.result.cache
+composer.phar
+npm-debug.log
+yarn-error.log
+/.idea/
+/.vscode/
+/.DS_Store
+Thumbs.db
+
+# Opcionales de tu proyecto
+/OLD_SISTEM/
+/NUL
